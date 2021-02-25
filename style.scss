@@ -2,6 +2,7 @@
 body {
     margin: 0;
     padding: 0;
+    background-image: url('sss.jpg');
 }
 
 .funfact {
@@ -10,9 +11,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(0deg, rgba(255, 255, 255, 1) 0%, rgba(255, 231, 246, 1) 50%, rgba(255, 174, 225, 1) 100%);
     font-family: 'Reggae One', cursive;
-    color: rgb(180, 0, 156);
+    color: rgb(141, 22, 22);
     h1 {
         font-size: 40px;
         display: flex;
@@ -35,8 +35,8 @@ body {
 
 .button {
     font-size: 20px;
-    color: rgb(180, 0, 156);
+    color: rgb(141, 22, 22);
     padding: 10px 20px;
-    border: 1px solid rgb(180, 0, 156);
+    border: 1px solid rgb(141, 22, 22);
     border-radius: 5px;
 }
